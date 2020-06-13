@@ -19,24 +19,22 @@ class BlogRoll extends React.Component {
                 }`}
               >
                 <header>
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                    {post.frontmatter.featuredimage ? (
-                      <div className="featured-thumbnail">
-                        <PreviewCompatibleImage
-                          imageInfo={{
-                            image: post.frontmatter.featuredimage,
-                            alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                          }}
-                        />
-                      </div>
-                    ) : null}
-                      {post.frontmatter.title}
-                    </Link>
-                  </p>
+                  <Link
+                    className="title has-text-primary is-size-4"
+                    to={post.fields.slug}
+                  >
+                  {post.frontmatter.featuredimage ? (
+                    <div className="featured-thumbnail">
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: post.frontmatter.featuredimage,
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                        }}
+                      />
+                    </div>
+                  ) : null}
+                    {post.frontmatter.title}
+                  </Link>
                 </header>
               </article>
             </div>
