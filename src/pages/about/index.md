@@ -3,4 +3,4 @@ templateKey: about-page
 path: /about
 title: Apie mus
 ---
-pildoma
+![Apie mus](/img/apie-mus.jpg "Apie mus")
