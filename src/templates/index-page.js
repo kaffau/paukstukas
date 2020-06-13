@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import logo from '../img/logo.svg'
 
 export const IndexPageTemplate = ({
   image,
@@ -36,16 +37,23 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}
       >
+        <div className="content has-text-centered">
+          <img
+            src={logo}
+            alt="paukstukas"
+            style={{ width: '20em' }}
+          />
+        </div>
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-          style={{
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
-          }}
-        >
-          {title}
-        </h1>
+        className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+        style={{
+          color: 'white',
+          lineHeight: '1',
+          padding: '0.25em',
+        }}
+      >
+        {title}
+      </h1>
       </div>
     </div>
     <section className="section section--gradient">
@@ -73,12 +81,12 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Istorijos
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
-                      Read more
+                      Daugiau
                     </Link>
                   </div>
                 </div>
