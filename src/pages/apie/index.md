@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-path: /about
+path: /apie
 title: Apie mus
 ---
 ![Apie mus](/img/apie-mus.jpg "Apie mus")
