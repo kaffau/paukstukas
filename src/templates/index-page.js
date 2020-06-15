@@ -8,9 +8,7 @@ import logo from '../img/logo.svg'
 
 export const IndexPageTemplate = ({
   image,
-  title,
   heading,
-  mainpitch,
   description,
 }) => (
   <div>
@@ -41,16 +39,6 @@ export const IndexPageTemplate = ({
             style={{ width: '20em' }}
           />
         </div>
-        <h1
-        className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-        style={{
-          color: 'white',
-          lineHeight: '1',
-          padding: '0.25em',
-        }}
-      >
-        {title}
-      </h1>
       </div>
     </div>
     <section className="section section--gradient">
@@ -59,14 +47,6 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
                 <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
@@ -147,7 +127,6 @@ export const pageQuery = graphql`
         subheading
         mainpitch {
           title
-          description
         }
         description
       }
