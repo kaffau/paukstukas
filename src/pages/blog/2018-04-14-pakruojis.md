@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Vaikystės Pakruojis - senelio skryliai, varlinykas ir dar pabūkime parke
+title: Sugrįžti į Pakruojį
 date: 2020-06-13T04:20:14.546Z
 description: Test description
 featuredpost: false

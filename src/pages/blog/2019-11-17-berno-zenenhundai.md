@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kai laimė sveria kiek daugiau nei 2 kilogramus
+title: Kai laimė sveria 2 kg
 date: 2020-06-13T04:20:14.546Z
 description: Berno zenenhundų vada
 featuredpost: false
