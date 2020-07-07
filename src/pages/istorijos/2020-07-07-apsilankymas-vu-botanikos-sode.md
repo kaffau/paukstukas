@@ -8,9 +8,7 @@ featuredimage: /img/dsc_5829.jpg
 tags:
   - Vilniaus Universiteto Botanikos sodas
 ---
-
-
-![Vilniaus Botanikos sodas](/img/dsc_5829.jpg "Vilniaus Botanikos sodas")
+![Vilniaus Botanikos sodas](/img/dsc_5819.jpg "Vilniaus Botanikos sodas")
 
 ![VU Botanikos sodas](/img/dsc_5841.jpg "VU Botanikos sodas")
 
