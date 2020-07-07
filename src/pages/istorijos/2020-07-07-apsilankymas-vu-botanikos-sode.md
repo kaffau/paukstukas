@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Apsilankymas VU Botanikos sode
 date: 2020-07-07T19:03:50.417Z
 description: Pasivaikščiojimas Vilniaus Universiteto Botanikos sode
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dsc_5829.jpg
 tags:
   - Vilniaus Universiteto Botanikos sodas
