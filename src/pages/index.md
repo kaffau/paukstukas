@@ -1,14 +1,14 @@
 ---
 templateKey: index-page
+title: Nusišypsokite! Tuoj išskris paukščiukas
 image: /img/background.jpg
 heading: Nusišypsokite! Tuoj išskris paukščiukas
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Nusišypsokite! Tuoj išskris paukščiukas
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  description: Nusišypsokite! Tuoj išskris paukščiukas
+description: Mėgstame fotografuoti, pagauti žavingas akimirkas ir gautu
+  nuotraukų rezultatu suteikti džiaugsmo!
 intro:
   blurbs: []
   heading: What we offer
