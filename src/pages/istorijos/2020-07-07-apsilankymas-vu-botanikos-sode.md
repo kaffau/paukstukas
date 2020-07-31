@@ -8,6 +8,8 @@ featuredimage: /img/dsc_5829.jpg
 tags:
   - Vilniaus Universiteto Botanikos sodas
 ---
+Gyvendami Vilniuje Botanikos sode lankėmės vos kelis kartus. Nusprendėme ištaisyti šią klaidą ir nuvykome jo aplankyti dar kartą. Čia auga daugybę įvairių augalų, yra suformuoti teminiai apsodinimai. Vienas gražiausių mums - Japoniškasis sodas. Kuo yra ypatingas Botanikos sodas - kas mėnesį žydi vis nauji augalai, tad galima lankytis čia labai dažnai, o įspūdžiai kas kartą bus nauji! 
+
 ![Vilniaus Botanikos sodas](/img/dsc_5819.jpg "Vilniaus Botanikos sodas")
 
 ![VU Botanikos sodas](/img/dsc_5841.jpg "VU Botanikos sodas")
