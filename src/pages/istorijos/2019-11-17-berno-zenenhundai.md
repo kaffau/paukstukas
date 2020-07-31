@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Kai laimė sveria 2 kg
 date: 2020-06-13T04:20:14.546Z
-description: Berno zenenhundų vada
+description: Pirmoji 'Raganos šuo' veislyno vada!
 featuredpost: false
 featuredimage: /img/suniukai-3.jpg
 tags:
