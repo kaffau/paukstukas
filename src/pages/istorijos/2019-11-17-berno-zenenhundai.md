@@ -8,6 +8,8 @@ featuredimage: /img/suniukai-3.jpg
 tags:
   - Berno zenenhundai
 ---
+Vieną saulėtą rudens rytą Vilniuje gimė pirmoji Linos Berno Zenenhundų vada. Mažieji išdykėliai labai greitai augo, buvo puikiai prižiūrimi, po padidinamuoju stiklu. Sustiprėję ir paaugę, pasidarę savarankiškesni, iškeliavo susiradę mylinčius šeimininkus! Šios vasaros pabaigoje planuojama jau antra vada - bus dar daugiau mažų keturkojų laimių! 
+
 ![Berno zenenhundai](/img/suniukai.jpg "Berno zenenhundai")
 
 ![Berno zenenhundų vada](/img/suniukai-2.jpg "Berno zenenhundų vada")
