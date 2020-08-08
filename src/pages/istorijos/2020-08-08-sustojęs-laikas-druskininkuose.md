@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Sustojęs laikas Druskininkuose
 date: 2020-07-04T06:59:32.962Z
 description: Apsilankymas Eglės sanatorijoje Druskininkuose.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/druskininkai_feature.jpg
 tags:
   - Druskininkai
