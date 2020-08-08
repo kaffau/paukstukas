@@ -10,6 +10,10 @@ tags:
   - Palangos dvaras
   - Olandų kepurė
 ---
+![Vaizdas pro Kerpės hotelio langą](/img/dsc_6066.jpg "Vaizdas pro viešbučio langą")
+
+
+
 ![Poilsis Palangoje Kerpės Hotelyje](/img/palanga_kerpes_hotelis.jpg "Poilsis Palangoje")
 
 ![Palangos dvaras](/img/dsc_6122.jpg "Palangos dvaras")
