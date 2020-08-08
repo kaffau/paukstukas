@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Bekraštė Jūros dovana
 date: 2020-07-27T05:55:42.630Z
 description: Seniai buvome Palangoje ir nusprendėme ją aplankyti.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/olandu_kepure.jpg
 tags:
   - Palanga
