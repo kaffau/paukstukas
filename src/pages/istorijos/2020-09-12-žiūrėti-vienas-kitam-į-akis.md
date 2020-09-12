@@ -13,7 +13,7 @@ description: |-
   O ar atleisit man, tai nežinia, 
   bet tik neteiskit.
   Aš irgi būsiu tėtis.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/pauliusirvytaute-12-.jpg
 tags:
   - Fotosesija gamtoje
