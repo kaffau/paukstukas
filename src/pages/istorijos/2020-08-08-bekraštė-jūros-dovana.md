@@ -4,7 +4,7 @@ title: Bekraštė Jūros dovana
 date: 2020-07-27T05:55:42.630Z
 description: Seniai buvome Palangoje ir nusprendėme ją aplankyti.
 featuredpost: false
-featuredimage: /img/olandu_kepure.jpg
+featuredimage: /img/dsc_6218.jpg
 tags:
   - Palanga
   - Palangos dvaras
