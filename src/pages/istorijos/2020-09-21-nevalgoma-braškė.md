@@ -5,7 +5,7 @@ date: 2020-09-20T20:35:00.000Z
 description: Sekmadienį pas mus užsuko pasisvečiuoti Braškė. Anglų
   Kokerspanielis yra 4,5 mėn. amžiaus ir pavergė visų mūsų širdis. Mažas vasaros
   džiaugsmas!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dsc_6262.jpg
 tags:
   - https://www.instagram.com/strawberry.cocker/
