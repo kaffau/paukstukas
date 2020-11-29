@@ -3,11 +3,10 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import BlogRoll from '../components/BlogRoll'
+import FeaturedBlogPosts from '../components/FeaturedBlogPosts'
 import logo from '../img/logo.svg'
 
 export const IndexPageTemplate = ({
-  image,
   heading,
   description,
 }) => (
@@ -15,11 +14,7 @@ export const IndexPageTemplate = ({
     <div
       className="full-width-image margin-top-0"
       style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
+        background: '#fffce7'
       }}
     >
       <div
@@ -47,7 +42,7 @@ export const IndexPageTemplate = ({
           <div className="column is-10 is-offset-1">
             <div className="content">
               <div className="columns">
-                <div className="column is-12">
+                <div className="column is-12 has-text-centered">
                   <h3 className="has-text-weight-semibold is-size-2">
                     {heading}
                   </h3>
@@ -58,7 +53,7 @@ export const IndexPageTemplate = ({
                 <h3 className="has-text-weight-semibold is-size-2">
                   Istorijos
                 </h3>
-                <BlogRoll />
+                <FeaturedBlogPosts />
                 <div className="column is-12 has-text-centered">
                   <Link className="btn" to="/istorijos">
                     Daugiau
@@ -74,7 +69,6 @@ export const IndexPageTemplate = ({
 )
 
 IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
@@ -88,7 +82,6 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}

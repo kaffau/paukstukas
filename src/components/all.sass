@@ -1,8 +1,7 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-// Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+$kaldi-red: #3a87a5
 $kaldi-red-invert: #fff
 
 $primary: $kaldi-red
@@ -61,10 +60,10 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: #7bb3c6
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    -webkit-box-shadow: inset 0 0 0 2px #3a87a5
+    box-shadow: inset 0 0 0 2px #3a87a5
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
@@ -103,21 +102,20 @@ $menu-label-color: $white-ter
 .social
   padding: 2em
 .social a
-    padding: .5em .5em .3em .5em
+    padding: 1em;
     border-radius: 1em
     background-color: $white-ter
-    margin: .5em
-    width: 1em
-    height: 1em
+    margin: .5em auto;
+    width: 3em
+    height: 3em
     vertical-align: middle
-    display: inline
+    display: block;
 
 // blog roll
 .blog-list-item.is-featured
   background-color: #d6400033;
 .blog-list-item header
   display: flex;
-  margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
   margin: 0 0 1rem;
@@ -141,7 +139,16 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 auto 1rem;
+  .content ul  
+    margin-left: 0
+    text-align: center
 
 img
   margin: 0 auto
   display: block
+
+.button.send
+  background: $primary
+
+.button.send:hover
+  background: #7bb3c6
